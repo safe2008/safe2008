@@ -11,12 +11,18 @@
 
 ## Tech Stack
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Github actions](https://img.shields.io/badge/Tool-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+![ArgoCd](https://img.shields.io/badge/Tools-ArgoCD-informational?style=flat&logo=ArgoCDlogoColor=white)
+![Helm](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=HelmlogoColor=white)
+![Docker](https://img.shields.io/badge/Tools-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-181717?style=flat-square&logo=github)
+![Redis](https://img.shields.io/badge/Tools-Redis-red?style=flat-square&logo=Redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Vscode](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VsCodelogoColor=white)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
 
 ## My GitHub Stats
 
