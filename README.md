@@ -1,4 +1,4 @@
-# Hi there. I am Boriphuth 👋 . Welcome to my Profile!!! 👋
+# Hi there. I am Boriphuth <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 - 🔭 I am currently working as a DevOps Engineer.
 - 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP.
