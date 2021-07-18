@@ -2,7 +2,6 @@
 
 - 🔭 I am currently working as a DevOps Engineer.
 - 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP.
-- 😄 Pronouns: He.
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/boriphuth-saensukphattraka/)](https://www.linkedin.com/in/boriphuth-saensukphattraka/)
