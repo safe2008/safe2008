@@ -1,4 +1,4 @@
-# Hi there. I am Boriphuth <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there. I am Boriphuth <img src="https://raw.githubusercontent.com/safe2008/safe2008/main/wave.gif" width="30px">
 
 - 🔭 I am currently working as a DevOps Engineer.
 - 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP.
@@ -30,17 +30,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safe2008&hide=TeX&layout=compact)
 ![Contibute](https://github-readme-streak-stats.herokuapp.com/?user=safe2008&theme=light)
 
-<!--
-**safe2008/safe2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CI/CD
+<img src="https://raw.githubusercontent.com/safe2008/safe2008/main/CI_CD.png">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Flow
+<img src="https://raw.githubusercontent.com/safe2008/safe2008/main/github-flow.png">
