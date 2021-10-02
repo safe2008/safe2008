@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/boriphuth-saensukphattraka/)](https://www.linkedin.com/in/boriphuth-saensukphattraka/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:boriphuth.sa@gmail.com)](mailto:boriphuth.sa@gmail.com)
-
+[![Linkedin Badge](https://images.credly.com/size/340x340/images/80b1fe49-18c8-48a1-8f38-1ebe37601a07/Certified_DevSecOps_Professional__CDP_.png)](https://www.credly.com/badges/0d223ed1-2c3b-467a-8daf-bd87aed061c5/public_url)
 
 ## Tech Stack
 
