@@ -1,7 +1,7 @@
 # Hi there. I am Boriphuth <img src="https://raw.githubusercontent.com/safe2008/safe2008/main/wave.gif" width="30px">
 
 - 🔭 I am currently working as a DevOps Engineer.
-- 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP, AWZ.
+- 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP, AWS.
 - 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/boriphuth-saensukphattraka/)](https://www.linkedin.com/in/boriphuth-saensukphattraka/)
