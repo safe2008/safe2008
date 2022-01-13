@@ -2,12 +2,13 @@
 
 - 🔭 I am currently working as a DevOps Engineer.
 - 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP, AWS.
-- 📫 How to reach me: 
+- 
+[![DevSecOps Badge](https://images.credly.com/size/340x340/images/80b1fe49-18c8-48a1-8f38-1ebe37601a07/Certified_DevSecOps_Professional__CDP_.png)](https://www.credly.com/badges/0d223ed1-2c3b-467a-8daf-bd87aed061c5/public_url)
+[![CKA Badge](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d48e3284-8087-4201-8ea7-3dc127663a39)
 
+- 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/boriphuth-saensukphattraka/)](https://www.linkedin.com/in/boriphuth-saensukphattraka/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:boriphuth.sa@gmail.com)](mailto:boriphuth.sa@gmail.com)
-[![Linkedin Badge](https://images.credly.com/size/340x340/images/80b1fe49-18c8-48a1-8f38-1ebe37601a07/Certified_DevSecOps_Professional__CDP_.png)](https://www.credly.com/badges/0d223ed1-2c3b-467a-8daf-bd87aed061c5/public_url)
-[![Linkedin Badge](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d48e3284-8087-4201-8ea7-3dc127663a39)
 
 ## Tech Stack
 
