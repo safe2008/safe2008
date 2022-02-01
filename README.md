@@ -10,6 +10,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/boriphuth-saensukphattraka/)](https://www.linkedin.com/in/boriphuth-saensukphattraka/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:boriphuth.sa@gmail.com)](mailto:boriphuth.sa@gmail.com)
 
+
+## My speak
+Dynamic sync k8s secret with HashiCorp Vault. HashiTalks: ประเทศไทย (https://events.hashicorp.com/hashitalksthailand)
+
 ## Tech Stack
 
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
