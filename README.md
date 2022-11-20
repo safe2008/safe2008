@@ -3,7 +3,7 @@
 - 🔭 I am currently working as a DevOps Engineer.
 - 🌱 Currently working : Github Actions, CI/CD, ArgoCD, Terraform, Kubernetes, GCP, AWS.
 - 
-[![DevSecOps Badge](https://images.credly.com/size/340x340/images/80b1fe49-18c8-48a1-8f38-1ebe37601a07/Certified_DevSecOps_Professional__CDP_.png)](https://www.credly.com/badges/0d223ed1-2c3b-467a-8daf-bd87aed061c5/public_url)
+[![DevSecOps Badge](https://images.credly.com/size/340x340/images/f170dbe8-dc4e-4920-a06d-100a197616d5/image.png)](https://www.credly.com/badges/0d223ed1-2c3b-467a-8daf-bd87aed061c5/public_url)
 [![CKA Badge](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/d48e3284-8087-4201-8ea7-3dc127663a39)
 
 - 📫 How to reach me: 
